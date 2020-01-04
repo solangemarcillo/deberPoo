@@ -7,8 +7,8 @@ namespace Examen
         static void Main(string[] args)
         {
             ClientesSinReistro clientesSinReistro = new ClientesSinReistro();
-            clientesSinReistro.Nombres = "maikel";
-            clientesSinReistro.Apellido = "zambran";
+            clientesSinReistro.Nombres = "andree";
+            clientesSinReistro.Apellido = "velez";
             clientesSinReistro.NumeroCedula = "222222";
             clientesSinReistro.Email = "a12.com";
             clientesSinReistro.Contrasenia = "1111";
